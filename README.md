@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Java utilizando os padrões **MVC** e **DAO**, com o objetivo de criar um sistema simples de cadastro, autenticação e autorização de usuários.
 
-Este projeto foi desenvolvido como uma **prova proposta pelo professor Alexandre**.
+Este projeto foi desenvolvido como uma **prova proposta pelo professor Alexandre** na matéria de Desenvolvimento de Sistemas.
 
 ## Sobre o Projeto
 
